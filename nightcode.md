@@ -47,4 +47,4 @@ Try out some of the other buttons on your own and see what they do. "Stop" will 
 
 With that, you are ready to create new Clojure projects in Nightcode!  Good luck, and enjoy Clojuring!
 
-[Nightcode]: https://nightcode.info/
+[Nightcode]: https://sekao.net/nightcode/
